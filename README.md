@@ -101,3 +101,9 @@ Released under the [MIT License](LICENSE) — free to use, modify, and share.
 Made for fun with 🥊 + 💻
 
 </div>
+
+## 👨‍💻 Author
+Sahil Chawla
+
+
+⭐ If you like this project, don't forget to give it a Star.
