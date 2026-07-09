@@ -102,9 +102,8 @@ Made for fun with 🥊 + 💻
 
 </div>
 
-👨‍💻 Author
+## 👨‍💻 Author
 Sahil Chawla
 
-Frontend Developer passionate about building responsive and interactive web applications while continuously learning modern web technologies and Cyber Security.
 
 ⭐ If you like this project, don't forget to give it a Star.
